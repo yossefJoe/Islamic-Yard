@@ -1,0 +1,43 @@
+{
+  "@@locale": "en",
+  "share": "Share",
+  "changelanguage": "Change Language",
+  "changeTheme": "Change Theme",
+  "rateus": "Rate Me",
+  "exit": "Exit",
+  "english":"English",
+  "arabic":"Arabic",
+      "dua":"Dua",
+    "hadith":"Hadith",
+    "quran":"Quran",
+    "tafseer":"Tafseer",
+    "tasbeeh":"Tasbeeh",
+    "islamicyard":"Islamic Yard",
+    "next":"Next",
+    "readquran":"Read Quran",
+    "tafseerquran":"Tafseer Quran",
+    "alhamdullah":"Allhamdullah",
+    "allahakbar":"Allahakbar",
+    "bismillah":"Bismillah",
+    "astaghfirallah":"Astaghfir-Allah",
+    "lahawlwlakwaelabillah":"La-Hawl-Wla-Kwa-Ela-Billah",
+    "laillahelaallah":"La-Ilah-Ela-Allah",
+    "praise":"Praise be to Allah",
+    "tasbeehcounter":"Tasbeeh Counter",
+    "sabah":"Start Tasbeeh",
+    "selectlanguage":"Select Language",
+    "readhadith":"Read Hadith",
+    "duas":"Duas",
+    "read":"Read",
+    "listen":"Listen",
+    "azkar" : "Azkar",
+    "azkarsabah" : "Azkar Sabah",
+    "azkarmasaa" : "Azkar Masaa",
+    "loading":"Loading",
+    "bio":"Learn Quran and Recite Once Everyday",
+    "getstarted":"Get Started"
+
+
+    
+
+}

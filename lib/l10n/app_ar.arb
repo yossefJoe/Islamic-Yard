@@ -1,0 +1,44 @@
+{
+    "@@locale": "ar",
+    "share": "مشاركة التطبيق",
+    "changelanguage": "تغيير اللغة",
+    "changeTheme": "تغيير الاضاءة",
+    "rateus": "قيم التطبيق",
+    "exit": "الخروج من التطبيق",
+    "english": "الانجليزية",
+    "arabic":"العربية",
+    "dua":"دعاء",
+    "hadith":"حديث",
+    "quran":"قرأن",
+    "tafseer":"تفسير",
+    "tasbeeh":"تسبيح",
+    "islamicyard":"الساحة الاسلامية",
+    "next":"الصلاة التالية",
+    "readquran":"قراءة القرأن",
+    "tafseerquran":"تفسير القرأن",
+    "alhamdullah":"الحمد لله",
+    "allahakbar":"الله اكبر",
+    "bismillah":"بسم الله ",
+    "astaghfirallah":"استغفر الله العظيم",
+    "lahawlwlakwaelabillah":"لا حول ولا قوة الا بالله",
+    "laillahelaallah":"لا اله الا الله",
+    "praise":"العظمة والمجد لله",
+    "tasbeehcounter":"عداد التسبيح",
+    "sabah":"ابدأ تسبيح",
+    "selectlanguage":"اختر اللغة المناسبة لك",
+    "readhadith":"قراءة الحديث",
+    "duas":"الأدعية",
+    "read":"أقرأ",
+    "listen":"استمع",
+    "azkar" : "الأذكار",
+    "azkarsabah" : "أذكار الصباح",
+    "azkarmasaa" : "أذكار المساء",
+    "loading":"تحميل",
+    "bio":"أقرأ قرأن وحديث وتدبر تفسير الأيات وسبح",
+    "getstarted":"ابدأ"
+
+
+    
+
+
+  }
